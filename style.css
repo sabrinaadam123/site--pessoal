@@ -2,3 +2,20 @@ header{
     background-color: violet;
     color: aliceblue;
 }
+ .cabecalho-imagem{
+    width: 25%;
+ }
+.cabecalho{
+    background-color: violet;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 1 15px;
+    padding: 0 25px;
+    justify-content: space-around;
+    font-size: 25px;
+}
+
