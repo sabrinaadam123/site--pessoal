@@ -23,4 +23,6 @@ width: 25%;
  }
 .meu site{
 background-image: linear-gradient(violet; #383d58);
+color: aliceblue;
+display: flex;
 }
